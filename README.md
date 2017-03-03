@@ -1,6 +1,7 @@
 # schoty-agent
 
-An agent for maintenance tasks in PR reviews
+An agent for maintenance tasks in PR reviews 
+(work in progress, do not use)
 
 
 ## Installation notes
